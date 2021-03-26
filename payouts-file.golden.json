@@ -1,0 +1,17 @@
+{
+	"Threshold": 1,
+	"FeePercentage": 0.1,
+	"EveryDatAt": [
+		"10:30",
+		"18:30"
+	],
+	"GasLimit": 0,
+	"GasPrice": 0,
+	"Payouts": [
+		{
+			"Name": "user0",
+			"Address": "0x3eb41fc94f240242c9bbb8bf46b9feb356fd09e2",
+			"ValuePercentage": 0.1
+		}
+	]
+}
